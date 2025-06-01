@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Shivam 👋
 
-<!--
-**shivamp9381/shivamp9381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about Machine Learning, Data Science, and building cool projects. I love solving problems and learning new technologies.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** Python, Java, C, C++
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras
+- **Web Development:** MongoDB, Node.js, React.js, HTML, CSS, Django, JAvascript
+- **Tools:** Git, Jupyter Notebook, VS Code
+
+## 🚀 My Projects
+
+- **StudyHive:** A discord like application for creating study groups using Django.
+- **Measuremate:** AI Powered body measurement.
+- **EasyBuy:** A full fledged eCommerce website built using MERN stack.
+- **Diabetes Prediction:** Predicting diabetes using patient data.
+- **Weather Forecasting Model:** Building a model to forecast weather conditions.
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamp9381&show_icons=true)
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/shivam-pandey-aa6922246/)
+- [Twitter](https://twitter.com/shivamp9381)
+- [Email](mailto:shivamp9381@gmail.com)
+
+---
+
+> “Always learning, always building!”
