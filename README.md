@@ -6,7 +6,7 @@ I'm a developer passionate about Web development, Machine Learning, Data Science
 
 - **Programming Languages:** Python, Java, C, C++
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Web Development:** MongoDB, Node.js, React.js, HTML, CSS, Django, JAvascript
+- **Web Development:** MongoDB, Node.js, React.js, HTML, CSS, Django, Javascript
 - **Tools:** Git, Jupyter Notebook, VS Code
 
 ## 🚀 My Projects
