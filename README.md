@@ -14,7 +14,7 @@ I'm a developer passionate about Web development, Machine Learning, Data Science
 - **StudyHive:** A discord like application for creating study groups using Django.
 - **Measuremate:** AI Powered body measurement.
 - **EasyBuy:** A full fledged eCommerce website built using MERN stack.
-- **Diabetes Prediction:** Predicting diabetes using patient data.
+- **LoopPost:** A blog website built using React and Appwrite.
 - **Weather Forecasting Model:** Building a model to forecast weather conditions.
 
 ## 📊 GitHub Stats
