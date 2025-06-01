@@ -1,6 +1,6 @@
 # Hi, I'm Shivam 👋
 
-I'm a developer passionate about Machine Learning, Data Science, and building cool projects. I love solving problems and learning new technologies.
+I'm a developer passionate about Web development, Machine Learning, Data Science, and building cool projects. I love solving problems and learning new technologies.
 
 ## 💻 Tech Stack
 
